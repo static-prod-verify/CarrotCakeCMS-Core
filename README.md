@@ -1,5 +1,5 @@
 # CarrotCakeCMS (MVC Core)
-Source code for CarrotCakeCMS (MVC - Core), .Net Core 8
+Source code for CarrotCakeCMS (MVC - Core), .Net Core 8 - try scan
 
 [SITE_CT]: http://www.carrotware.com/contact?from=github-core
 [REPO_SF]: http://sourceforge.net/projects/carrotcakecmscore/
